@@ -1,7 +1,4 @@
-# hello_world.py
+# filename: infinite_loop.py
 
-def main():
-    print("Hello, World!")
-
-if __name__ == "__main__":
-    main()
+while True:
+    print("Hello, world!")
